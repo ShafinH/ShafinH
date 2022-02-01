@@ -1,6 +1,5 @@
-<center>
- <h4>Hi <b>👋</b>, I'm Shafin Haque</h4>
-<p>Interested in AI/ML and fullstack development. <br/> Junior at Saratoga High School</p>
+<h4 align="center">Hi <b>👋</b>, I'm Shafin Haque</h4>
+<p align="center">Interested in AI/ML and fullstack development. <br/> Junior at Saratoga High School</p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=ShafinH&count_private=true&hide=prs&theme=github_dark&include_all_commits=true&show_icons=true" />
 </p>
