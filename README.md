@@ -1,5 +1,5 @@
 <h3 align="center">Hi <b>👋</b>, I'm <a href="https://shafinhaque.me/">Shafin Haque</a></h3>
-<p align="center">Interested in AI/ML and fullstack development. <br/> Junior at Saratoga High School</p>
+<p align="center">Interested in AI/ML and fullstack development. <br/> Rising senior at Saratoga High School</p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=ShafinH&count_private=true&hide=prs&theme=github_dark&include_all_commits=true&show_icons=true" />
 </p>
